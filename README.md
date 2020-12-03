@@ -11,7 +11,6 @@ if text.startswith("youtube "):
     threading.Thread(target=Youtube., args=(query)).start()
 ```
 
-## ATTENTION:
-- need apikey v3 youtube from google apis
-<br>
-- make your apikey in [YoutubeApiz](https://developers.google.com/youtube/v3)
+## ATTENTION
+1. need apikey v3 youtube from google apis
+2. make your apikey in [**YoutubeApiz**](https://developers.google.com/youtube/v3)
