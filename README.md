@@ -15,5 +15,5 @@ if text.startswith("youtube "):
 <p>
 - need apikey v3 youtube from google apis
 <br>
-- make your apikey in [YoutubeApiz!](https://developers.google.com/youtube/v3)
+- make your apikey in [YoutubeApiz](https://developers.google.com/youtube/v3)
 </p>
